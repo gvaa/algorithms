@@ -1,2 +1,2 @@
-# studious-goggles
-testing
+# algorithms
+trying with go
